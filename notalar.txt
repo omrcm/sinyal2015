@@ -1,10 +1,38 @@
-* ölçü ne süre hakkında bilgim yok. öğrenip yazabilirim. internetten bulamadım. bilginize
-ölçü 1 ;
+1. ölçü
+mi 1/4
+sol 1/4
 
-Do
-Re
-Mi
-Fa
-Sol
-La
-Si
+2. ölçü
+fa 1/4
+sol 1/4
+fa 1/4
+
+3. ölçü
+fa 1/4
+fa 1/4
+fa 1/4
+fa 1/4
+
+4. ölçü
+sol 1/4 
+la 1/4
+sol 1/4
+
+5. ölçü
+mi 1/4
+mi 1/4
+mi 1/4
+mi 1/4
+
+6. ölçü
+fa 1/4
+sol 1/4
+fa 1/4
+mi 1/4
+
+7. ölçü
+sol 4
+
+8. ölçü
+mi 1/4
+sol 1/4
